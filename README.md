@@ -1,4 +1,4 @@
-# Challenge NodeJS and MongoDB
+# Challenge NodeJS and AWS Lambda
 
 #### Introduction
 
